@@ -1,3 +1,8 @@
 .header {
     background-color: aqua;
+    color: black;
+}
+
+.arow {
+    text-align: center;
 }
